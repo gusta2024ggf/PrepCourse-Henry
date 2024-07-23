@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-este es el repositorio del prep course de henry
+Gustavo fabris este proyeccto es una prueba de como clonarlo desde github al local
